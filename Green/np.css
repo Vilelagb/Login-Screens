@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(to right, #219F94, #C1DEAE);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainbox {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 70px;
+    background-color: rgba(0,0,0,0.7);
+    border: none;
+    border-radius: 10px;
+}
+
+button {
+    background-image: linear-gradient(to right,#C1DEAE, #219F94 );
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 13px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+input {
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 1px;
+    padding: 6px;
+    outline: none;
+    background: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+p {
+    font-size: 17px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
